@@ -17,13 +17,8 @@ if($_POST){
     }else{
         $precioEntrada = 300;
     }
-    
-
 }
-
 ?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,8 +32,6 @@ if($_POST){
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        
-        
     }
 
     .resultado{
